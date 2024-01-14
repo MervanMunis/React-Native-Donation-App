@@ -1,3 +1,4 @@
+The project is still in development: 1. Required APIs will be added 2. A payment system will be added. 3. It will be redesigned to a responsive UI. 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
